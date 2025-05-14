@@ -33,23 +33,9 @@ Próximas etapas:
 
 - **Frontend**: React + Next.js + Tailwind CSS
 - **Mapas**: Google Maps JavaScript API
-- **Visualizaciones**: Chart.js
-- **Estilo y componentes**: Shadcn/ui + Tailwind
-- **Backend (futuro)**: Node.js + PostgreSQL
-- **Mock data**: GeoJSON embebido
+- **Estilo y componentes**: Tailwind css
+- **Mock data**: GeoJSON embebido (comunas)
 
 ---
 
-## 📦 Instalación y desarrollo local
-
-```bash
-# Clona el repositorio
-git clone https://github.com/Rmd-DW/PLANSAT.git
-cd PLANSAT
-
-# Instala las dependencias
-npm install
-
-# Ejecuta en modo desarrollo
-npm run dev
 
